@@ -1,0 +1,38 @@
+body {
+    margin: 0;
+    background-color: #f5f6fa;
+}
+
+header {
+    background-color: #293b54;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+nav {
+    background-color: #e1e7ee;
+}
+
+main {
+    max-width: 800px;
+    padding: 30px;
+    margin: 0 auto;
+}
+
+h2 {
+    color: #27394c;
+}
+
+.work {
+    background-color: white;
+    padding: 20px;
+    border-radius: 8px;
+}
+
+footer {
+    background-color: #293b54;
+    color: white;
+    text-align: center;
+    padding: 15px;
+}
